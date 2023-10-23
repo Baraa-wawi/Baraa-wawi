@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Baraa-wawi
-- 👀 I’m interested in python,c++,java,android development,algorithm and anything related to computer science.
-- 🌱 I’m currently learning python and android development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me baraawawi300@gmail.com
+- Hi, I’m @Baraa-wawi
+- I'm an IOS Developer
+- I’m interested in IOS Development,swift,swiftUI.
+- 📫 How to reach me baraawawi@outlook.com
 
 <!---
 Baraa-wawi/Baraa-wawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
